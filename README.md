@@ -8,7 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harishwaran25)
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishwaranxia@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishwaran-t-724b16287)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Harishwaran25&color=blue&style=for-the-badge)
 ![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-brightgreen?style=for-the-badge)
@@ -46,6 +46,7 @@ class Harishwaran:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="65" height="65" alt="ROS"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="65" height="65" alt="Arduino"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="65" height="65" alt="Raspberry Pi"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nvidia/76B900" width="65" height="65" alt="NVIDIA"/>&nbsp;&nbsp;
 
 <br><br>
 

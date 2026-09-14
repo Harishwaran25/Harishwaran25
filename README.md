@@ -147,13 +147,13 @@ Fault-tolerant, AI-assisted pipelines for monitoring, detection, and automation 
   <img src="https://streak-stats.demolab.com/?user=Harishwaran25&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harishwaran25&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harishwaran25&theme=tokyo-night&hide_border=true" alt="Contribution Graph" style="max-width:100%; height:auto;" />
 </p>
 
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harishwaran25/Harishwaran25/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="95%" />
+  <img src="https://raw.githubusercontent.com/Harishwaran25/Harishwaran25/output/github-contribution-grid-snake.svg" alt="Contribution Snake" style="max-width:100%; height:auto;" />
 </p>
 
 ---

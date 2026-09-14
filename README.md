@@ -140,8 +140,8 @@ Fault-tolerant, AI-assisted pipelines for monitoring, detection, and automation 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harishwaran25&show_icons=true&theme=tokyonight&hide_border=true" alt="Harishwaran's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harishwaran25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Harishwaran25&show_icons=true&theme=tokyonight&hide_border=true" alt="Harishwaran's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harishwaran25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Harishwaran25&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />

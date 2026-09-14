@@ -156,8 +156,6 @@ Fault-tolerant, AI-assisted pipelines for monitoring, detection, and automation 
   <img src="https://raw.githubusercontent.com/Harishwaran25/Harishwaran25/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="95%" />
 </p>
 
-> ⚠️ The snake animation needs a one-time GitHub Action set up in your profile repo — see `snake.yml` (shared alongside this file) for the workflow that generates it automatically. Until that workflow runs once, this image will show broken.
-
 ---
 
 ## 🎓 Education

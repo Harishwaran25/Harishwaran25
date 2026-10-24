@@ -13,7 +13,7 @@
 
 ---
 
-## 📖 About Me
+## About Me
 
 I'm a Robotics & Automation Engineering student focused on building practical autonomous robotic systems.
 

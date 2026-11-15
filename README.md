@@ -17,7 +17,7 @@
 
 I'm a Robotics & Automation Engineering student focused on building practical autonomous robotic systems.
 
-- Working with ROS2 & autonomous navigation
+- Working with ROS2 & autonomous navigation 
 - Exploring SLAM, Nav2, localization & path planning
 - Building systems using Computer Vision & AI (YOLOv5/v8/v11, OpenCV)
 - Hands-on experience with embedded systems & robotics hardware

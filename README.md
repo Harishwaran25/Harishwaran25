@@ -151,7 +151,7 @@ Fault-tolerant, AI-assisted pipelines for monitoring, detection, and automation 
 ## 🎓 Education
 
 **B.E. Robotics and Automation** — Sri Ramakrishna Engineering College (2023–2027)
-CGPA: 8.79 / 10
+CGPA: 8.78 / 10
 
 ---
 

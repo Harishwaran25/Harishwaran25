@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/field-robotics(1).svg" alt="Harishwaran T — Robotics Software Engineer" width="100%" />
+<img src="assets/field-robotics.svg" alt="Harishwaran T — Robotics Software Engineer" width="100%" />
 
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harishwaran25)
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishwaranxia@gmail.com)

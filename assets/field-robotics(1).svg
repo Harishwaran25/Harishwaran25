@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="300" viewBox="0 0 850 300" role="img" aria-labelledby="title desc">
+<title id="title">Harishwaran T | Robotics Software Engineer</title>
+<desc id="desc">ROS 2 navigation and SLAM on mobile robots, real-time vision with OpenCV and YOLO, and two-robot coordination in simulation. Animated curves illustrate candidate paths toward a goal.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2=".8"><stop stop-color="#0b101d"/><stop offset=".55" stop-color="#101827"/><stop offset="1" stop-color="#090c16"/></linearGradient>
+ <linearGradient id="spectrum"><stop stop-color="#428eff"/><stop offset=".52" stop-color="#9581ff"/><stop offset="1" stop-color="#32dcc4"/></linearGradient>
+ <radialGradient id="wash"><stop stop-color="#244370" stop-opacity=".43"/><stop offset="1" stop-color="#244370" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse"><path d="M35 0H0V35" fill="none" stroke="#7693c7" stroke-width=".6" opacity=".14"/></pattern>
+ <path id="upper" d="M515 167C555 167 555 106 603 106S689 203 735 154Q759 125 789 125"/>
+ <path id="middle" d="M515 167C558 167 566 138 606 138S679 173 712 148S759 125 789 125"/>
+ <path id="lower" d="M515 167C557 167 568 201 611 201S681 136 721 136S754 125 789 125"/>
+ <style>
+ .sans{font-family:Inter,'DejaVu Sans',Arial,sans-serif}.mono{font-family:'DejaVu Sans Mono',Consolas,monospace}
+ .c1{animation:a 12s infinite}.c2{opacity:0;animation:b 12s infinite}.c3{opacity:0;animation:c 12s infinite}
+ @keyframes a{0%,28%,100%{opacity:1;transform:translateY(0)}32%,96%{opacity:0;transform:translateY(-3px)}}
+ @keyframes b{0%,32%,64%,100%{opacity:0;transform:translateY(3px)}36%,60%{opacity:1;transform:translateY(0)}}
+ @keyframes c{0%,64%,96%,100%{opacity:0;transform:translateY(3px)}68%,92%{opacity:1;transform:translateY(0)}}
+ .flow{stroke-dasharray:14 166;animation:travel 4s linear infinite}
+ @keyframes travel{to{stroke-dashoffset:-360}}
+ @media(prefers-reduced-motion:reduce){.c1,.c2,.c3,.flow{animation:none}}
+ </style>
+</defs>
+<rect width="850" height="300" fill="url(#bg)"/>
+<ellipse cx="200" cy="130" rx="310" ry="190" fill="url(#wash)"/>
+<rect x="15" y="15" width="820" height="270" rx="6" fill="url(#grid)" stroke="url(#spectrum)" stroke-opacity=".32"/>
+<g class="mono" fill="#82a1cc" opacity=".46" font-size="10">
+ <text x="40" y="45">map → odom → base_link</text><text x="40" y="265">pose = (x, y, θ)</text><text x="691" y="265">v = (vₓ, ω)</text>
+</g>
+<text x="50" y="99" class="sans" font-size="15" letter-spacing="3" fill="#b8c8dd">ROBOTICS SOFTWARE ENGINEER</text>
+<text x="47" y="154" class="sans" font-size="48" font-weight="700" letter-spacing="-1.4" fill="#f5f8ff">Harishwaran T</text>
+<rect x="50" y="171" width="120" height="2" rx="1" fill="url(#spectrum)"/>
+<g class="mono" font-size="16">
+ <text class="c1" x="49" y="215" fill="#71cdff">[ ROS 2 navigation &amp; SLAM ]</text>
+ <text class="c2" x="49" y="215" fill="#b9a5ff" opacity="0">[ Real-time vision with OpenCV &amp; YOLO ]</text>
+ <text class="c3" x="49" y="215" fill="#68e3cc" opacity="0">[ Two-robot coordination in ROS 2 ]</text>
+</g>
+<g stroke="#7490ac" stroke-width=".7" stroke-dasharray="2 4" opacity=".6"><path d="M603 96v114m109-94v63"/></g>
+<g xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" stroke-linecap="round">
+ <use xlink:href="#upper" stroke="#4498ff" opacity=".65"/><use xlink:href="#middle" stroke="#49ddc5" stroke-width="1.8" opacity=".82"/><use xlink:href="#lower" stroke="#ac84ff" opacity=".65"/>
+ <g class="flow" stroke-width="2.6"><use xlink:href="#upper" stroke="#97c6ff"/><use xlink:href="#middle" stroke="#afffee" stroke-dashoffset="-52"/><use xlink:href="#lower" stroke="#d0bbff" stroke-dashoffset="-84"/></g>
+</g>
+<g fill="#18283a" stroke="#9af5e4"><circle cx="515" cy="167" r="4"/><circle cx="789" cy="125" r="5"/><circle cx="789" cy="125" r="10" opacity=".35" fill="none"/></g>
+<g class="mono" font-size="10" fill="#acbfd4"><text x="501" y="190">pose</text><text x="774" y="103">goal</text></g>
+</svg>
